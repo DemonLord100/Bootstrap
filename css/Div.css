@@ -1,0 +1,13 @@
+/* Koden nedanför ändrar färgen av Titeln av alla korterna */
+.headtitle{
+	color: green;
+}
+/* Koden nedanför ändrar färgen av texten inuti korten */
+.text{
+	color:lightgreen;
+}
+/* Koden nedanför konfigurerar Alla korter som har klassen "kort". */
+.kort{
+	float:left;
+	padding: 5px;
+}
